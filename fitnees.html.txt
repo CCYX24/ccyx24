@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>減肥產品網站</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #f8b400;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            background: #333;
+            color: white;
+            padding: 0.5rem;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            justify-content: space-around;
+        }
+        nav ul li {
+            margin: 0;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        section {
+            padding: 1rem;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>健康瘦身，輕鬆達成</h1>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#home">首頁</a></li>
+        <li><a href="#products">產品專區</a></li>
+        <li><a href="#solutions">問題與解方</a></li>
+        <li><a href="#blog">部落格</a></li>
+        <li><a href="#support">客戶支援</a></li>
+        <li><a href="#about">關於我們</a></li>
+    </ul>
+</nav>
+
+<section id="home">
+    <h2>首頁</h2>
+    <p>探索我們的熱銷商品和專業建議，幫助您健康瘦身！</p>
+    <ul>
+        <li>精選產品推薦</li>
+        <li>客戶見證與成功案例</li>
+        <li>快速導航區</li>
+    </ul>
+</section>
+
+<section id="products">
+    <h2>產品專區</h2>
+    <h3>產品分類</h3>
+    <ul>
+        <li>膳食補充劑</li>
+        <li>減肥飲品</li>
+        <li>健康零食</li>
+        <li>體重管理配件</li>
+    </ul>
+    <h3>各產品頁面</h3>
+    <p>每個產品提供詳細的圖片、規格、使用方法與客戶評價。</p>
+</section>
+
+<section id="solutions">
+    <h2>問題與解方專區</h2>
+    <h3>常見減肥問題</h3>
+    <ul>
+        <li>「為什麼我無法減重？」</li>
+        <li>「減肥期間如何控制飢餓感？」</li>
+        <li>「健康瘦身的關鍵是什麼？」</li>
+    </ul>
+    <h3>解方與建議</h3>
+    <p>提供飲食規劃、運動建議與生活方式調整。</p>
+</section>
+
+<section id="blog">
+    <h2>部落格專區</h2>
+    <ul>
+        <li>營養與健康知識</li>
+        <li>用戶故事</li>
+        <li>減肥技巧與誤區分析</li>
+        <li>最新減重科學研究</li>
+    </ul>
+</section>
+
+<section id="support">
+    <h2>客戶支援與聯絡</h2>
+    <ul>
+        <li>FAQ（購買流程、退換貨政策、產品諮詢）</li>
+        <li>即時客服系統或聯絡表單</li>
+        <li>社群媒體連結</li>
+    </ul>
+</section>
+
+<section id="about">
+    <h2>關於我們</h2>
+    <p>了解我們的品牌使命、專業背景與合作夥伴。</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 減肥產品網站 | 健康瘦身，輕鬆達成</p>
+</footer>
+
+</body>
+</html>
